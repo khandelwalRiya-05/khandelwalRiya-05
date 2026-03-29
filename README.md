@@ -12,13 +12,13 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="mailto:khandelwalriya057.com"><img src="https://img.shields.io/badge/Email-your%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/khandelwal-riya/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/khandelwalRiya-05"><img src="https://img.shields.io/badge/GitHub-khandelwal--05-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=khandelwal-05&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=khandelwalRiya-05&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -26,16 +26,11 @@
 
 ## 🧠 About Me
 
-```python
-riya = {
-    "role"       : "AI/ML Engineer & Full-Stack Developer",
-    "education"  : "B.Tech CSE @ JK Lakshmipat University, Jaipur | CGPA: 9.1",
-    "experience" : ["SDE Intern @ Produktiv.ai", "Associate SWE @ Brudite Pvt. Ltd."],
-    "focus"      : ["LLM Security", "Adversarial ML", "Backend Microservices", "Cloud-Native Apps"],
-    "currently"  : "Seeking SWE / AI-focused full-time roles 🚀",
-    "fun_fact"   : "I broke an LLM so I could fix it better 🔐",
-}
-```
+I'm a full-stack engineer and AI/ML researcher based in Jaipur, India — building at the intersection of backend systems and machine learning. I write Go and Python for production microservices, ship React frontends, and spend my spare time figuring out how large models break.
+
+I'm finishing my B.Tech in CS at JK Lakshmipat University (CGPA 9.1) and have been working as an SDE Intern at [Produktiv.ai](https://produktiv.ai), where I've touched everything from hexagonal architecture and distributed APIs to Keycloak SSO and Grafana dashboards. Before that, I built scalable Django backends at Brudite.
+
+Outside of work, I'm most interested in **LLM security and adversarial ML** — the idea that the best way to understand a system is to try to break it. That instinct is where most of my personal projects come from.
 
 ---
 
@@ -70,63 +65,16 @@ riya = {
 
 ---
 
-## 💼 Experience
-
-### 🏢 Software Development Engineer Intern — [Produktiv.ai](https://produktiv.ai) *(Jun 2025 – Dec 2025)*
-> Full-stack engineering on production microservices using Go, Python & React.js
-- 🔧 Built backend microservices with **Go & Python** using **hexagonal (clean) architecture**
-- 🔗 Designed & integrated **RESTful APIs** for end-to-end distributed service delivery
-- 🔐 Implemented **Keycloak SSO + Microsoft Azure AD** for multi-domain authentication
-- 📊 Monitored system health (throughput, memory) via **Grafana dashboards**
-- 🗃️ Managed **PostgreSQL** operations & optimized data processing workflows
-
-### 🏢 Associate Software Intern — Brudite Pvt. Ltd. *(May 2024 – Jul 2024)*
-> Backend API development with Django REST Framework
-- ⚡ Built scalable backend features with **Django REST Framework + PostgreSQL**
-- 🔁 Integrated **third-party APIs** to expand system capabilities
-- 🤝 Collaborated cross-functionally to resolve production issues end-to-end
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 [VulnScan — AI/LLM Security Testing Platform](https://github.com/khandelwal-05) *(Nov 2025 – Dec 2025)*
-> A full-stack platform to probe vulnerabilities in ML models and LLM systems
-
-- Implemented **8+ adversarial attack techniques** — FGSM, PGD, DeepFool for image classifiers
-- Built **jailbreaking & bias detection modules** for LLM systems
-- Integrated **Gemini API** to auto-generate structured security assessment reports
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-### 🤖 [Custom Mixture-of-Experts GPT Architecture](https://github.com/khandelwal-05) *(Sep 2025 – Nov 2025)*
-> A modified GPT-1 variant with MoE design for improved efficiency
-
-- Architected **MoE transformer** improving parameter efficiency & inference throughput
-- Re-engineered backbone with **Post-Layer Normalization** & hybrid **BPE/SentencePiece tokenizer**
-- Enhanced training stability and vocabulary efficiency from scratch
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khandelwal-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khandelwal-05&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khandelwalRiya-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khandelwalRiya-05&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandelwal-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandelwalRiya-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
 
 </div>
 
@@ -135,9 +83,7 @@ riya = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khandelwal-05&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=khandelwalRiya-05&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -145,20 +91,15 @@ riya = {
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khandelwal-05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khandelwalRiya-05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" />
 </div>
 
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 **"Break it to understand it. Build it to prove it."**
 
 ⭐ *If you find my work interesting, consider giving a star!*
-
 </div>
