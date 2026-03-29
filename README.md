@@ -12,9 +12,9 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:khandelwalriya057@gmail.com"><img src="https://img.shields.io/badge/Email-khandelwalriya057%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khandelwal-riya/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
   <a href="https://github.com/khandelwalRiya-05"><img src="https://img.shields.io/badge/GitHub-khandelwal--05-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -69,24 +69,18 @@ Outside of work, I'm most interested in **LLM security and adversarial ML** — 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khandelwalRiya-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khandelwalRiya-05&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khandelwalRiya-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com?user=khandelwalRiya-05&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandelwalRiya-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
+<img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khandelwalRiya-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khandelwalRiya-05&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
