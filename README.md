@@ -12,10 +12,10 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/khandelwal-05"><img src="https://img.shields.io/badge/GitHub-khandelwal--05-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:khandelwalriya057.com"><img src="https://img.shields.io/badge/Email-your%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khandelwal-riya/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+  <a href="https://github.com/khandelwalRiya-05"><img src="https://img.shields.io/badge/GitHub-khandelwal--05-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=khandelwal-05&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile Views" />
