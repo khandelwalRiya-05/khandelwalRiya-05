@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;Full-Stack+Dev+%7C+Go+%2B+React+%2B+Python+%F0%9F%9A%80;LLM+Security+%26+Adversarial+ML+Researcher+%F0%9F%94%90;CGPA+9.1+%7C+SWE+%40+Produktiv.ai+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;Full-Stack+Dev+%7C+Go+%2B+React+%2B+Python+%F0%9F%9A%80;LLM+Security+%26+Adversarial+ML+Researcher+%F0%9F%94%90;CGPA+9.1+%7C+SDE+%40+Produktiv.ai+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -95,5 +95,4 @@ Outside of work, I'm most interested in **LLM security and adversarial ML** — 
 
 **"Break it to understand it. Build it to prove it."**
 
-⭐ *If you find my work interesting, consider giving a star!*
 </div>
